@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-  <p><br><b>I scrape and analyse <i>data</i>, provide <i>information</i> and <i>build websites</i></b></p> 
+  <p><br><b>I <i>scrape and analyse data</i>, provide <i>information</i> and <i>build websites</i></b></p> 
 </div>
